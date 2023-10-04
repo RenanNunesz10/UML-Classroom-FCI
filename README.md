@@ -1,7 +1,7 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
 
-# Template para Disciplina de Engenharia de Software
+# Projeto de Engenharia de Software
 
 O repositório define um modelo (*template*) que deverá ser seguido por cada grupo no projeto.
 
@@ -19,9 +19,9 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Pizza-Express*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *cleiton*
 
 # Descrição
 
