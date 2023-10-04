@@ -26,7 +26,8 @@ A seguir, os passos para a preparação do projeto:
 # Descrição
 
 Este projeto tem como objetivo revitalizar a competitividade da Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa, que enfrenta uma perda de 30% no rendimento de vendas devido à concorrência. O foco principal é desenvolver dois sistemas de software:
-Sistema de Atendimento e Localização: Simplificar o processo de pedidos, estabelecer uma central de pedidos eficiente e implementar um algoritmo de localização para direcionar pedidos à loja mais próxima, garantindo entregas em 10-15 minutos.
+Sistema de Atendimento e Localização: 
+Simplificar o processo de pedidos, estabelecer uma central de pedidos eficiente e implementar um algoritmo de localização para direcionar pedidos à loja mais próxima, garantindo entregas em 10-15 minutos.
 
 Sistema de Suporte às Operações da Fábrica de Pizzas: Automatizar operações de produção, gerenciamento de estoque e rastreamento de entregas em tempo real para otimizar o processo e garantir que as pizzas estejam prontas para entrega em tempo recorde.
 
