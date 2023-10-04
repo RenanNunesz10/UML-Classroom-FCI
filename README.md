@@ -25,7 +25,7 @@ A seguir, os passos para a preparação do projeto:
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+Este projeto tem como objetivo revitalizar a competitividade da Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa, que enfrenta uma perda de 30% no rendimento de vendas devido à concorrência. O foco principal é desenvolver dois sistemas de software:
 
 # Documentação
 
