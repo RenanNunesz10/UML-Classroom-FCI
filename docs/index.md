@@ -27,19 +27,16 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Victor Oliveira Santos
+* Renan Silva Nunes
+* Vinicius melo
+* Rapha delucca
+
 
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+Neste repositório, trabalhamos para aprimorar a entrega de pizzas da Pizza-Express, recuperar vendas perdidas e enfrentar a concorrência que garante entregas rápidas. Nosso foco é desenvolver sistemas para lidar com pedidos e otimizar a produção de pizzas nas lojas. Valorizamos a colaboração e estamos abertos a contribuições externas.
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
