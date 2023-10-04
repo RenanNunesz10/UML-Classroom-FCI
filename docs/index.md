@@ -39,7 +39,59 @@
 Neste repositório, trabalhamos para aprimorar a entrega de pizzas da Pizza-Express, recuperar vendas perdidas e enfrentar a concorrência que garante entregas rápidas. Nosso foco é desenvolver sistemas para lidar com pedidos e otimizar a produção de pizzas nas lojas. Valorizamos a colaboração e estamos abertos a contribuições externas.
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+&lt;*Requisitos Funcionais:*
+
+Projeto 1: Sistema de Atendimento e Localização
+
+1. *Sistema de Pedidos*
+   - Os clientes devem ser capazes de fazer pedidos de pizza de forma rápida e intuitiva.
+   - O sistema deve permitir que os clientes especifiquem suas preferências de pizza.
+   - Deve haver um histórico de pedidos para clientes registrados.
+
+2. *Central de Pedidos*
+   - A central de pedidos deve receber, processar e encaminhar pedidos para a loja Pizza-Express mais próxima.
+   - Os pedidos devem ser encaminhados em tempo real para a loja selecionada.
+   - O sistema deve calcular o tempo estimado de entrega com base na localização do cliente e da loja.
+
+3. *Localização da Loja*
+   - O sistema deve identificar a loja Pizza-Express mais próxima do cliente com base em sua localização.
+   - A seleção da loja deve ser automática e transparente para o cliente.
+   - Deve haver um mecanismo de fallback para permitir que o cliente escolha uma loja manualmente, se necessário.
+
+Requisitos Não-Funcionais:
+
+1. *Desempenho*
+   - O sistema deve ser capaz de lidar com picos de demanda durante horários de pico, mantendo o tempo de resposta rápido.
+   - O tempo de processamento de pedidos deve ser mínimo.
+
+2. *Confiabilidade*
+   - O sistema deve ser altamente confiável, minimizando o risco de falhas devido a interrupções ou erros de software.
+
+3. *Segurança*
+   - Os dados dos clientes, como informações de pagamento e histórico de pedidos, devem ser protegidos com criptografia de ponta a ponta.
+   - Deve haver autenticação e autorização adequadas para garantir que apenas pessoal autorizado acesse o sistema.
+
+4. *Escalabilidade*
+   - O sistema deve ser escalável para lidar com um aumento no número de lojas e pedidos sem perda de desempenho.
+
+5. *Usabilidade*
+   - A interface do usuário deve ser intuitiva e fácil de usar tanto para clientes quanto para funcionários da Pizza-Express.
+
+6. *Compatibilidade com Dispositivos Móveis*
+   - O sistema deve ser acessível e funcional em dispositivos móveis, como smartphones e tablets.
+
+7. *Manutenibilidade*
+   - O código do sistema deve ser bem documentado e modular, facilitando futuras atualizações e manutenções.
+
+8. *Tempo de Entrega*
+   - O sistema deve ser capaz de calcular com precisão o tempo estimado de entrega e garantir que as pizzas sejam entregues dentro de 10-15 minutos após o pedido.
+
+9. *Disponibilidade*
+   - O sistema deve estar disponível 24 horas por dia, 7 dias por semana, para atender a pedidos de clientes em qualquer momento.
+
+10. *Integração*
+    - Deve ser possível integrar o sistema com sistemas de pagamento online e outras ferramentas de terceiros, como serviços de mapas.
+&gt;
 
 # Diagrama de casos de uso
 
