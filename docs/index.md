@@ -43,7 +43,9 @@ Neste repositório, trabalhamos para aprimorar a entrega de pizzas da Pizza-Expr
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+*&lt;O diagrama está disponível no link a seguir:
+https://drive.google.com/file/d/1FuKSLvoZL87244AP77ngkf9rCLmCt7sY/view?usp=sharing
+&gt;*
 
 # Descrição dos casos de uso
 
@@ -103,7 +105,9 @@ Neste repositório, trabalhamos para aprimorar a entrega de pizzas da Pizza-Expr
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+*&lt;O diagrama de sequência está disponível no seguinte link:
+https://drive.google.com/file/d/1Of8UwoDRk3Sp4_lUWks8OVT1stT2qSaV/view?usp=sharing
+&gt;*
 
 # Diagrama de classes
 
