@@ -163,20 +163,66 @@ https://drive.google.com/file/d/1Of8UwoDRk3Sp4_lUWks8OVT1stT2qSaV/view?usp=shari
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+*&lt;O diagrama de classes está disponível no seguinte link:
+https://drive.google.com/file/d/1WGCJI4_cbfpA9OD1JR82Vp8D2cTloKGk/view?usp=sharing
+&gt;*
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+*&lt;O diagrama de componentes está disponível no seguinte link:
+https://drive.google.com/file/d/1qYBMZ1HHSPu7BygqjnSL5kK6LUJi4y4g/view?usp=sharing
+&gt;*
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+*&lt;
+   1. Hospedagem de Aplicações:
+Implantação de servidores para executar aplicações essenciais como ClienteApp, LojaApp e EntregadorApp.
+Consideração de serviços de nuvem como AWS, Azure ou Google Cloud para escalabilidade e gerenciamento eficiente de recursos.
+   
+   2.Gerenciamento de Dados:
+Estabelecimento de um banco de dados para armazenar informações cruciais relacionadas a clientes, pedidos, estoque de lojas e entregadores.
+Avaliação de opções de bancos de dados relacionais (por exemplo, MySQL, PostgreSQL) ou NoSQL (por exemplo, MongoDB) baseando-se nas características e demandas específicas dos dados.
+
+   3. Comunicação entre Componentes:
+Desenvolvimento de APIs para facilitar a comunicação harmoniosa entre diferentes partes do sistema.
+Implementação de protocolos como RESTful ou GraphQL para otimizar a integração dos diversos componentes.
+
+   4. Sistema de Comunicação Assíncrona:
+Estabelecimento de um sistema de mensageria para facilitar a comunicação assíncrona entre componentes, por exemplo, notificações de pedidos para lojas ou entregadores.
+Exploração de ferramentas como RabbitMQ ou Apache Kafka para otimizar esse tipo de comunicação.
+
+   5. Armazenamento Eficiente de Arquivos:
+Emprego de serviços de armazenamento em nuvem como Amazon S3 ou Google Cloud Storage se for necessário armazenamento de arquivos, como imagens de pizzas.
+
+   6. Ambientes Separados para Desenvolvimento e Testes:
+Configuração de ambientes distintos para desenvolvimento, teste e produção, garantindo uma implementação sólida e prevenindo problemas inesperados no ambiente de produção.
+
+   7. Garantias de Segurança:
+Implementação rigorosa de práticas de segurança, incluindo o uso de HTTPS, autenticação robusta e autorização, além de monitoramento contínuo para proteger dados sensíveis e assegurar conformidade com regulamentações.
+&gt;*
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+*&lt;O diagrama de implantação está disponível no seguinte link:
+https://drive.google.com/file/d/1xmOCXH9WugQLclhAwHEptHMPHDuecKbK/view?usp=sharing
+&gt;*
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+*&lt;
+   1. Arquitetura de Software e Desenvolvimento Web:
+"GraphQL: The Definitive Guide" by Preston So and Michael Hunger
+
+   2. Desenvolvimento Ágil e Gestão de Projetos:
+"The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries
+
+   3. Segurança da Informação e Práticas de Desenvolvimento Seguro:
+"Certificação Certified Secure Software Lifecycle Professional (CSSLP)"
+
+   4. Design de APIs:
+Grupo de Discussão "APIs Brasil" (https://groups.google.com/g/apisbrasil)
+
+   5. Considerações de Nuvem e Serviços Web:
+Documentação Oficial dos Serviços Cloud (AWS, Azure, Google Cloud)
+&gt;*
