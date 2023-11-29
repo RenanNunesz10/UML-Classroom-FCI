@@ -27,10 +27,10 @@
 
 # Autores
 
-* Victor Oliveira Santos
-* Renan Silva Nunes
-* Vinicius Melo
-* Raphael De Lucca
+* Victor Oliveira Santos - 32357338
+* Renan Silva Nunes - 32314558
+* Vinicius Melo - 32315228
+* Raphael De Lucca - 
 
 
 
