@@ -30,7 +30,7 @@
 * Victor Oliveira Santos
 * Renan Silva Nunes
 * Vinicius Melo
-* Rapha De Lucca
+* Raphael De Lucca
 
 
 
